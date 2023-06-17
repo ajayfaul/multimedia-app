@@ -111,5 +111,3 @@ const [sortOrder, setSortOrder] = useState("asc")
    - Clicking the button triggers the `toggleSortOrder` function, which toggles the `sortOrder` state between ascending and descending.
 
 Overall, this code enables users to search for files based on a search query and sort the displayed files in ascending or descending order. The search functionality updates the filtered files in real-time, and the sorting order can be toggled between ascending and descending by clicking the "Sort" button.
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+[native+code]+}+File&mimeType=application/octet-stream&fileName=Multimedia+App+Bounty.md&fileType=undefined&fileExtension=md
